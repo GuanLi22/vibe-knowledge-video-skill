@@ -1,0 +1,10 @@
+node_modules/
+out/
+__pycache__/
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.ncm
+public/sfx/
+src/beats.ts
